@@ -51,7 +51,7 @@ header#mainHeader ul li a {
 	text-decoration: none;
 }
 header#mainHeader ul li a.last{
-	border:none;
+	border: none;
 }
 header#mainHeader ul li a:hover{
 	color: #e6e6e6;
